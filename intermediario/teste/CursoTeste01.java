@@ -4,7 +4,7 @@ import flamingo.aprendendo.basico.intermediario.dominio.Disciplina;
 
 import java.util.Scanner;
 
-public class CursoTeste01 {
+/*public class CursoTeste01 {
     static void main() {
         Curso curso = new Curso();
         Scanner sc = new Scanner(System.in);
@@ -30,3 +30,4 @@ public class CursoTeste01 {
         System.out.println(disciplina.semestre);
     }
 }
+*/
